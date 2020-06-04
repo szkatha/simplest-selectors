@@ -1,0 +1,23 @@
+.container {
+  width: 300px;
+}
+
+.big {
+  color: blue;
+}
+
+#b325,
+.b326 {
+  border: solid 1px green;
+}
+
+#b325,
+.b326,
+.b329 {
+  font-weight: bold;
+}
+
+p {
+  background-color: yellow;
+  width: 300px;
+}
